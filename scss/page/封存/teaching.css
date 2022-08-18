@@ -1,0 +1,124 @@
+.wrap .container {
+  color: #000;
+  min-height: 1000px;
+}
+
+.wrap .container h2 {
+  text-align: center;
+  font-size: 50px;
+  margin: 15px;
+  padding-top: 30px;
+  font-weight: bold;
+}
+
+.wrap .container h3 {
+  text-align: center;
+  font-size: 40px;
+  margin: 10px;
+  padding-top: 40px;
+  font-weight: bold;
+}
+
+.wrap .container p {
+  text-align: center;
+  font-size: 24px;
+  line-height: 2;
+}
+
+.wrap .container a {
+  text-decoration: none;
+  padding-bottom: 5px;
+  color: royalblue;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(royalblue), to(royalblue));
+  background-image: linear-gradient(royalblue, royalblue);
+  background-position: left bottom;
+  background-size: 0 4px;
+  background-repeat: no-repeat;
+  font-size: 28px;
+  font-weight: bold;
+  -webkit-transition: background-size 0.15s linear;
+  transition: background-size 0.15s linear;
+}
+
+.wrap .container a:hover {
+  background-size: 100% 4px;
+}
+
+.wrap .container .item-list {
+  width: 70%;
+  margin: 0 auto;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+@media (max-width: 767px) {
+  .wrap .container .item-list {
+    width: 100%;
+  }
+}
+
+.wrap .container .item-list .item {
+  border: 2px solid #000;
+  margin: 20px auto;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.wrap .container .item-list .item h3 {
+  padding: 20px;
+  font-size: 24px;
+  margin: auto;
+}
+
+@media (max-width: 414px) {
+  .wrap .container .item-list .item h3 {
+    font-size: 20px;
+    padding: 15px 10px;
+  }
+}
+
+.wrap .container .item-list .item h3:hover {
+  color: #FFF;
+  background: palevioletred;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.wrap .container .item-list .item p {
+  display: none;
+  font-size: 20px;
+  padding: 5% 40px 20px;
+  background: #333;
+  word-break: break-all;
+  line-height: 28px;
+}
+
+.wrap .container .item-list .item p a {
+  margin-top: 5%;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+@media (max-width: 414px) {
+  .wrap .container .item-list .item p a {
+    font-size: 24px;
+  }
+}
+
+.wrap .container .item-list .item p span {
+  display: block;
+  margin: 15px auto;
+}
+
+.wrap .container .item-list .item .item-open {
+  color: #FFF;
+  background: blueviolet;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  border: 2px solid #CCC;
+}
+/*# sourceMappingURL=teaching.css.map */

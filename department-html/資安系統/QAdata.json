@@ -1,0 +1,326 @@
+[
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP如何增加簽核關卡(加簽)?",
+    "dataA": "EFGP增加簽核關卡(加簽)之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E6%96%B0%E5%A2%9E%E9%97%9C%E5%8D%A1%E6%93%8D%E4%BD%9C.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP如何設定「請假(未刷卡)申請單」的代理人?",
+    "dataA": "EFGP設定「請假(未刷卡)申請單」的代理人之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E5%A6%82%E4%BD%95%E8%A8%AD%E5%AE%9A%E4%BB%A3%E7%90%86%E4%BA%BA.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP批次簽核操作說明",
+    "dataA": "EFGP批次簽核之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E6%89%B9%E6%AC%A1%E7%B0%BD%E6%A0%B8%E6%93%8D%E4%BD%9C.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP使用注意事項",
+    "dataA": "EFGP使用注意事項之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85_0.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP如何查找發起或簽核的流程",
+    "dataA": "EFGP如何查找發起或簽核之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E6%9F%A5%E6%89%BE%E7%99%BC%E8%B5%B7%E6%88%96%E7%B0%BD%E6%A0%B8%E7%9A%84%E6%B5%81%E7%A8%8B.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP物品設備請購單的表單填寫",
+    "dataA": "EFGP物品設備請購單的表單之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E7%89%A9%E5%93%81%E8%A8%AD%E5%82%99%E8%AB%8B%E8%B3%BC%E5%96%AE%E6%93%8D%E4%BD%9C.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP加班(補休)申請單的表單填寫",
+    "dataA": "EFGP加班(補休)申請單的表單之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%8A%A0%E7%8F%AD%28%E8%A3%9C%E4%BC%91%29%E7%94%B3%E8%AB%8B%E5%96%AE%28Matt_apyt103%29%E6%93%8D%E4%BD%9C.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP請假(未刷卡)申請單的表單填寫",
+    "dataA": "EFGP請假(未刷卡)申請單的表單之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E8%AB%8B%E5%81%87%28%E6%9C%AA%E5%88%B7%E5%8D%A1%29%E7%94%B3%E8%AB%8B%E5%96%AE%28Matt_apyt104%29%E6%93%8D%E4%BD%9C_2.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EFGP已請假核准要如何銷假?",
+    "dataA": "EFGP已請假核准欲銷假之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E9%8A%B7%E5%81%87%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "電子簽核",
+    "dataQ": "EasyFlowGP有哪些常用的操作功能?",
+    "dataA": "EasyFlowGP常用操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.pdf"
+  },
+  {
+    "type": "會議類",
+    "dataQ": "Webex視訊會議網頁要如何操作？",
+    "dataA": "分為正式帳號網頁登入操作，與臨時帳號網頁操作。<span>請參考下方連結臨時帳號網頁操作說明</span>",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/Webex%E4%B8%BB%E6%8C%81%E6%9C%83%E8%AD%B0%E7%B0%A1%E6%98%93%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8ENEW.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "網頁要如何加入信任網頁、相容性網頁？",
+    "dataA": "網頁加入信任網頁、相容性網頁之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E7%B6%B2%E7%AB%99%E4%BF%A1%E4%BB%BB%E5%8F%8A%E7%9B%B8%E5%AE%B9%E6%80%A7%E6%96%B0%E5%A2%9E%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "如何指定固定軟體開啟相同類型檔案？",
+    "dataA": "指定固定軟體開啟相同類型檔案之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%9B%BA%E5%AE%9A%E8%BB%9F%E9%AB%94%E9%96%8B%E5%95%9F%E7%9B%B8%E5%90%8C%E9%A1%9E%E5%9E%8B%E6%AA%94%E6%A1%88.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "ERP的QBE功能輸入方式,要如何操作？",
+    "dataA": "ERP的QBE功能輸入方式之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/ERP%E4%B9%8BQBE%E6%9F%A5%E8%A9%A2%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "如何知道個人設定檔大小，及如何清理？",
+    "dataA": "1.請打開 N 槽。<span>2.請雙擊【檢視個人設定檔大小】捷徑。將會轉到可以看到個人【帳號】的目錄(帶有一把鎖頭)。</span><span>3.滑鼠點選個人【帳號】，按右鍵選內容，可以看到個人目錄的大小。(超過500M以上已經不小了)</span><span>4.再次回到 N 槽。</span><span>5.雙擊【清除暫存】目錄，分別雙擊【清除excel暫存】、【清除google暫存】進行清理。</span><span>6.重複1~3步驟，如果目錄大小仍然很大，請進行各瀏覽器的【歷史瀏覽】清除，或者【下載】、【文件】等各目錄的清理(需要留下請移到N 個人目錄，無須下請刪除)。</span>",
+    "other":""
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "登入 Citrix XenApp 環境無法帶出原來的設定資料",
+    "dataA": "大部份的問題都是瀏覽器的【暫存資料】太多、太大所造成。<span>請參考 <a target='_blank' style='display:inline' href='https://www.design-hu.com/web-news/how-to-clean-browser-cache.html'>此網頁</a> 清除緩存垃圾。</span><span>為了方便用戶在不同電腦中免去重複設定的問題，登入 Citrix XenApp 時會帶入所謂【個人設定檔】。</span><span>這個檔案會隨用戶的電腦作業複雜度或頻次而逐漸長大，當大到超過約 250MB 以上時，在網路登入時就會造成壅擠，尤其是尖峰時段(大家一起登入時)。所以，需要用戶定期清理，提升登入的順暢度。</span><a target='_blank' href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/Citrix%E5%85%B1%E7%94%A8%E6%AA%94%E6%A1%88%E8%B3%87%E6%96%99%E5%A4%BE%E6%96%87%E4%BB%B6%E6%B8%85%E7%90%86_%E4%BD%9C%E6%A5%AD%E9%96%8B%E5%95%9F%E6%9C%83%E8%87%AA%E5%8B%95%E9%97%9C%E9%96%89%E5%95%8F%E9%A1%8C_1.pdf'>連結點我</a>",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%A6%82%E4%BD%95%E6%B8%85%E9%99%A4%E7%80%8F%E8%A6%BD%E5%99%A8%E5%BF%AB%E5%8F%96.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "考勤數據導出作業",
+    "dataA": "考勤數據導出之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/Presentation1.pptx"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "在文管中心看不到最新的文件怎麼辦?",
+    "dataA": "請設定自動刪除瀏覽器歷程紀錄，保持每次打開網頁都是最新版。<span>點選【工具(Alt+X)】>【網際網路選項(Ctrl+O)】做設定。</span>",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/IE%E8%A8%AD%E5%AE%9A-%E6%96%87%E7%AE%A1%E4%B8%AD%E5%BF%83.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "CR報表如何匯出只有資料的excel檔？",
+    "dataA": "CR報表匯出只有資料的excel檔之操作說明，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/CR%E5%A0%B1%E8%A1%A8%E5%8F%AA%E5%8C%AF%E5%87%BA%E8%B3%87%E6%96%99%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "ERP的CR報表如何區分?",
+    "dataA": "ERP的CR報表區分方法，請點選下方連結。",
+    "other":"http://iswd.avertronics.com/staff/sites/default/files/ITQA/CR%E5%A0%B1%E8%A1%A8%E6%98%AF%E4%BB%80%E9%BA%BC_0.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "開啟IE被封鎖，或者ERP報表多格式輸出有錯誤，如何排除？",
+    "dataA": "開啟IE被封鎖，或者ERP報表多格式輸出有錯誤，排除之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%AE%89%E5%85%A8%E6%80%A7%E8%A8%AD%E5%AE%9A_0.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "FTP如何操作",
+    "dataA": "FTP操作方法，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/FTP_0.ppt"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "應用雲端Citrix，電腦關機",
+    "dataA": "1.先登出Citrix.<span>2.再對本地電腦關機。</span>",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/CITRIX%20%E7%99%BB%E5%87%BA%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "ERP 程式模組與清單",
+    "dataA": "ERP 程式模組與清單",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/ERP_Program_List.xls"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "TeamViewer區網操作方式",
+    "dataA": "TeamViewer區網操作方式<span>附加 > 選項 > 只接受</span>",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/TeamViewer%E5%8D%80%E7%B6%B2%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "CR報表PC列印操作",
+    "dataA": "CR報表PC列印之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/CR%E5%A0%B1%E8%A1%A8PC%E5%88%97%E5%8D%B0%E6%93%8D%E4%BD%9C-apple.pdf"
+  },
+  {
+    "type": "電話類",
+    "dataQ": "電話分機操作說明書",
+    "dataA": "電話分機操作說明書，如連結PDF檔，提供參考。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E9%9B%BB%E8%A9%B1%E5%88%86%E6%A9%9F%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8E%E6%9B%B8.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "EFGP表單列印為PDF檔方式",
+    "dataA": "EFGP表單列印為PDF檔之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/EFGP%E8%A1%A8%E5%96%AE%E5%88%97%E5%8D%B0%E7%82%BAPDF%E6%AA%94%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "鼎新 ERPII 相關產品介紹",
+    "dataA": "<a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/B2B%E7%B3%BB%E7%B5%B1%E7%B0%A1%E4%BB%8B20170913.pdf' target='_blank'>1. B2B系統簡介</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E8%A1%8C%E5%8B%95%E4%BB%BB%E5%8B%99%E5%B0%8E%E8%88%AABPM.pdf' target='_blank'>2. 行動任務導航</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%95%86%E6%A5%AD%E6%99%BA%E6%85%A7_BI6.pdf' target='_blank'>3. BI商業智慧</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/OpenPLM%E6%B1%BD%E8%BB%8A%E8%A1%8C%E6%A5%AD%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88.pdf' target='_blank'>4. OpenPLM汽車行業解決方案</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/eKB-%E9%9B%BB%E5%AD%90%E7%9C%8B%E6%9D%BF%E5%B7%A5%E5%85%B7-customer.pdf' target='_blank'>5. eKB-電子看板工具</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%BB%A0%E5%85%A7%E6%99%BA%E8%83%BD%E7%89%A9%E6%B5%81.pdf' target='_blank'>6. 廠內智能物流</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/MESSeries%E7%B0%A1%E4%BB%8B-%E7%B5%84%E8%A3%9D%E7%94%A2%E6%A5%AD%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88.pdf' target='_blank'>7. MESSeries簡介-組裝產業解決方案</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%85%88%E9%80%B2%E8%A6%8F%E5%8A%83%E6%8E%92%E7%A8%8B%E7%B3%BB%E7%B5%B1APS%E7%B0%A1%E4%BB%8B.pdf' target='_blank'>8. 先進規劃排程系統APS簡介</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/HR%E9%97%9C%E9%8D%B5%E8%81%B7%E8%83%BD%E7%B0%A1%E5%A0%B1.ppsx' target='_blank'>9. HRS人力資源系統</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/DS_20171002_T100_overview.pdf' target='_blank'>10. 鼎新ERPII Overview</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E6%96%B9%E6%A1%88%E5%8C%85%E6%95%99%E8%82%B2%E8%A8%93%E7%B7%B4.pdf' target='_blank'>11. 鼎新電子發票</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E6%98%A0%E8%88%88%E9%9B%BB%E5%AD%90CRM%E6%87%89%E7%94%A8%E8%AA%AA%E6%98%8E-V1.3.pdf' target='_blank'>12. 鼎新CRM</a>",
+    "other": ""
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "鼎新 MESSeries簡介-組裝產業解決方案介紹",
+    "dataA": "鼎新 MESSeries簡介-組裝產業解決方案介紹，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/MESSeries%E7%B0%A1%E4%BB%8B-%E7%B5%84%E8%A3%9D%E7%94%A2%E6%A5%AD%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "ERP的相關文件功能操作方式",
+    "dataA": "ERP的相關文件功能之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E7%9B%B8%E9%97%9C%E6%96%87%E4%BB%B6%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "雲端OFFICE2010版本要如何登入操作",
+    "dataA": "雲端OFFICE2010版本要如何登入之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/OFFICE2010%E9%9B%B2%E7%AB%AF%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F_1.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "ERP如何查找出勤記錄？",
+    "dataA": "ERP查找請假單、加班單及刷卡資料記錄之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/ERP%E6%9F%A5%E6%89%BE%E5%87%BA%E5%8B%A4%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8E_0.pdf"
+  },
+  {
+    "type": "電話類",
+    "dataQ": "TW電話分機三方通話會議要如何操作？",
+    "dataA": "TW電話分機三方通話會議之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/TW%E5%88%86%E6%A9%9F%E4%B8%89%E6%96%B9%E9%80%9A%E8%A9%B1%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8E.pdf"
+  },
+  {
+    "type": "軟體類",
+    "dataQ": "ERP IQC匯入測量值",
+    "dataA": "IQC匯入測量值操作文件，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/aqct110-%E5%8C%AF%E5%85%A5%E6%B8%AC%E9%87%8F%E5%80%BC.pdf"
+  },
+  {
+    "type": "帳號類",
+    "dataQ": "使用Citrix如何變更密碼 暨 網域密碼到期該如何變更？",
+    "dataA": "Citrix變更密碼之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E4%BD%BF%E7%94%A8Citrix%E5%A6%82%E4%BD%95%E8%AE%8A%E6%9B%B4%E5%AF%86%E7%A2%BC%20%E6%9A%A8%20%E7%B6%B2%E5%9F%9F%E5%AF%86%E7%A2%BC%E5%88%B0%E6%9C%9F%E5%A6%82%E4%BD%95%E8%AE%8A%E6%9B%B4.pdf"
+  },
+  {
+    "type": "帳號類",
+    "dataQ": "使用者環境說明書及問題解決",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E4%BD%BF%E7%94%A8%E8%80%85%E7%92%B0%E5%A2%83%E8%AA%AA%E6%98%8E%E6%9B%B8%E5%8F%8A%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA.pdf"
+  },
+  {
+    "type": "帳號類",
+    "dataQ": "外線使用VPN要如何操作連線？",
+    "dataA": "VPN之操作說明，請點選下方連結。<span>瀏覽器只支援IE瀏覽器，並強烈建議使用<a href='https://support.microsoft.com/zh-tw/help/18520/download-internet-explorer-11-offline-installer' target='blank' style='display:inline'>IE 11</a>。</span><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8BIE%E7%80%8F%E8%A6%BD%E5%99%A8%E7%89%88%E6%9C%AC.pdf' target='_blank'>點我查看 IE版本</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/VPN%E9%80%A3%E7%B7%9A%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F_v2_%E7%80%8F%E8%A6%BD%E5%99%A8%E7%89%88%E6%9C%AC_IE11.pdf' target='_blank'>點我查看 IE11 VPN教學</a><a href='http://iswd.avertronics.com/staff/sites/default/files/ITQA/VPN%E9%80%A3%E7%B7%9A%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F_v2_%E7%80%8F%E8%A6%BD%E5%99%A8%E7%89%88%E6%9C%AC_IE9.pdf' target='_blank'>點我查看 IE9 VPN教學</a>",
+    "other": ""
+  },
+  {
+    "type": "帳號類",
+    "dataQ": "雲端內TW3370與2260影印機密碼要如何設定？",
+    "dataA": "雲端內TW3370與2260影印機密碼設定說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E9%9B%B2%E7%AB%AF%E5%BD%B1%E5%8D%B0%E6%A9%9F%E5%AF%86%E7%A2%BC%E8%A8%AD%E5%AE%9A.pdf"
+  },
+  {
+    "type": "帳號類",
+    "dataQ": "電腦開機後雲端CitrixXenApp要如何登入登出？",
+    "dataA": "電腦開機後雲端CitrixXenApp登入之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/Citrix%20%E9%9B%B2%E7%AB%AF%20%E7%99%BB%E5%85%A5%20%E7%99%BB%E5%87%BA.pdf"
+  },
+  {
+    "type": "帳號類",
+    "dataQ": "ERP密碼要如何變更？",
+    "dataA": "ERP密碼變更之操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/ERP%E5%AF%86%E7%A2%BC%E8%AE%8A%E6%9B%B4%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "帳號類",
+    "dataQ": "Cirtix密碼變更規則為何？",
+    "dataA": "1. 密碼至少設定8個字元。<span>2. 密碼要有英文大寫、英文小寫、數字、特殊符號共4項，至少需選擇3項。</span><span>3.密碼至少要每90天變更一次。</span>",
+    "other": ""
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "如何搬移個人郵件檔",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%A6%82%E4%BD%95%E6%90%AC%E7%A7%BB%E5%80%8B%E4%BA%BA%E9%83%B5%E4%BB%B6%E6%AA%94.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "Outlook 2010版，設定個人郵件檔，或郵件檔已滿的處理方式",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E8%A8%AD%E5%AE%9A%E5%80%8B%E4%BA%BA%E9%83%B5%E4%BB%B6%E6%AA%94.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "郵件Outlook 2010版如何設定？",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E9%83%B5%E4%BB%B6Outlook%202010%E7%89%88%E8%A8%AD%E5%AE%9A_0.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "郵件檔容量限制為何？每封郵件容量大小為何？",
+    "dataA": "1.每個郵件檔容量2GB，請務必定時檢查。<span>2.每封郵件包含附件容量為5MB。</span>",
+    "other": ""
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "要如何查看郵件檔容量及存放位置、路徑？",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E6%9F%A5%E7%9C%8B%E9%83%B5%E4%BB%B6%E6%AA%94%E5%AE%B9%E9%87%8F%E5%8F%8A%E5%AD%98%E6%94%BE%E8%B7%AF%E5%BE%91.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "郵件內容要如何超連結路徑？",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E8%B7%AF%E5%BE%91%E8%B6%85%E9%80%A3%E7%B5%90%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "垃圾郵件系統要如何進入查看？",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E5%9E%83%E5%9C%BE%E9%83%B5%E4%BB%B6%E7%99%BB%E5%85%A5%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8E.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "雲端郵件超過10MB檔案要如何壓縮分割檔案郵寄？",
+    "dataA": "雲端使用7Zip軟體壓縮分割，操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/%E9%9B%B2%E7%AB%AF%E6%AA%94%E6%A1%88%E5%A3%93%E7%B8%AE%E5%88%86%E5%89%B2%E6%93%8D%E4%BD%9C.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "OutLook中未使用中郵件檔是否要關閉？",
+    "dataA": "請關閉未使用的郵件檔，以減少郵件檔損壞及資源佔用，要查詢時再開啟。",
+    "other": ""
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "郵件檔如何開啟與關閉？",
+    "dataA": "操作說明，請點選下方連結。",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/OUTLOOK%E9%83%B5%E4%BB%B6%E6%AA%94%E9%96%8B%E5%95%9F%E8%88%87%E9%97%9C%E9%96%89.pdf"
+  },
+  {
+    "type": "郵件類",
+    "dataQ": "郵件檔滿了要如何新增郵件檔？",
+    "dataA": "Outlook2003中的個人文件(.pst)有兩種格式可以保存，<span>一種可以和舊格式相兼容; .pst採用ANSI格式. 最大只能支持不到2G.</span><span>另一種新格式使用Unicode,不能兼容舊格式,可以提升文件大小到20G</span><span>目前公司大部分用的舊格式，新增郵件檔操作說明，請點選下方連結。</span>",
+    "other": "http://iswd.avertronics.com/staff/sites/default/files/ITQA/OUTLOOK%E9%83%B5%E4%BB%B6%E6%AA%94%E6%96%B0%E5%A2%9E%E6%96%B9%E5%BC%8F.pdf"
+  },
+  {
+    "type": "",
+    "dataQ": "",
+    "dataA": "",
+    "other": ""
+  }
+]

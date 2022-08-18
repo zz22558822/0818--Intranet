@@ -1,0 +1,517 @@
+@import 'reset';
+@import './mixin/RWD';
+
+$avinG:#059240;
+$avinG2 : #73d89a;
+
+html,body{
+  font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+  background: #2A2A2A;
+  &.AD-NoBar{
+    overflow: hidden;
+  }
+}
+
+
+.wrap{
+  max-width: 1024px;
+  margin: 0 auto;
+  // 漸層背景
+  background: #666;
+  background: -webkit-linear-gradient(0deg, rgb(176, 176, 176), rgb(153, 153, 153));
+  background: linear-gradient(0deg, rgb(176, 176, 176), rgb(153, 153, 153));
+  
+  position: relative;
+  /* 隱藏多餘防止破版的list-feature-border */
+	overflow: hidden;
+  a{
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+
+  // 表頭
+  .header{
+
+    background: #000;
+    width: 100%;
+
+    @media(max-width:767px){
+      position: fixed;
+      z-index: 10;
+    }
+    @media(max-width:414px){
+      // 讓flex logo對齊置中
+      flex-direction: column;
+      padding-right: 0;
+    }
+
+    // position: absolute;
+    h1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      a{
+        width: 260px;
+        height: 62px;
+        margin: 10px 15px;
+        background: url(../images/logo.png) no-repeat;
+        // RWD background IMG wh
+        background-size:contain;
+
+        // 圖片代替文字
+        display: block; // a轉區塊
+        text-indent: 101%; // 縮排101%讓h1超出區塊
+        overflow: hidden; // 隱藏超出內容
+        white-space: nowrap; // 讓文字不自動換行
+        background-repeat: no-repeat; // 讓圖片不重複
+        background-position: center; // 讓圖片對齊中心
+
+
+        @media(max-width:767px){
+          width: 150px;
+          margin: 5px 10px;
+        }
+        @media(max-width:414px){
+          width: 180px;
+        }
+        &:hover{
+          // background: url(../images/資安系統-黃色透明背景.png) no-repeat;
+          // 圖片代替文字
+          display: block; // a轉區塊
+          text-indent: 101%; // 縮排101%讓h1超出區塊
+          overflow: hidden; // 隱藏超出內容
+          white-space: nowrap; // 讓文字不自動換行
+          background-repeat: no-repeat; // 讓圖片不重複
+          background-position: center; // 讓圖片對齊中心
+          transform: scale(1.1);
+          // opacity: 0.9;
+        }
+      }
+    }
+    .menu{
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      // flex-direction: column;
+      justify-content: space-around;
+      transition: all 0.2s;
+      padding: 0 6px 10px 6px;
+      
+      @media(max-width:767px){
+        // 讓 li 平均散開
+        justify-content: space-around;
+        flex-direction: column;
+        // 預設隱藏選單
+        display: none;
+      }
+
+      li{
+        text-align: center;
+        @media(max-width:767px){
+          width: 98%;
+          padding: 3px;
+        }
+        a{
+          display: block;
+          color: #FFF;
+          padding: 20px;
+          transition: all 0.3s;
+          font-size: 24px;
+          font-weight: bold;
+          letter-spacing: 3px;
+          border-radius: 5px;
+          margin-right: 5px;
+          white-space: nowrap;
+          &:hover{
+            transform: scale(1.08);
+            background: $avinG;
+            color: #000;
+
+            @media(max-width:767px){
+              transform: scale(1);
+              background: none;
+              color: $avinG;
+              border: dashed 2px #FFF;  
+            }
+          }
+
+          @media(max-width:767px){
+            padding: 20px;
+            font-size: 20px;
+            // 預留 3px 可以有緩衝不讓背景跳動
+            border:2px dashed transparent;
+            margin-right: 0;
+          }
+        }
+      }
+      &.meun-open{
+        display: flex;
+      }
+    }
+
+    // 漢堡選單
+    .hamburger{
+      display: none;
+      @media(max-width:767px){
+        display: block;
+      }
+      a{
+        position: absolute;
+        top: 12px;
+        right: 2%;
+        font-size: 38px;
+        // border: 2px #FFF solid;
+        padding: 5px 10px;
+        color: #FFF;
+        &:hover{
+          opacity: 0.8;
+          transform: scale(1.2);
+          transition: all 0.3s;
+        }
+      }
+      .fa-times{
+        color: red;
+        z-index: 201;
+        position: fixed;
+      }
+    }
+    
+    // RWD開啟menu時在上方並高度佔據100%
+    &.meun-open{
+      height: 100%;
+      overflow: scroll;
+      z-index: 200;
+    }
+
+  }
+
+  // 內容
+  .container{
+
+    min-height: 818px;
+    padding: 20px;
+    color: #CF9;
+
+    @media(max-width:767px){
+      margin-top: 75px;
+    }
+    @media(max-width:414px){
+      padding: 10px;
+    }
+
+    i{
+      margin-right: 10px;
+    }
+    
+    // 測試用
+    .test{
+      min-height: 1000px;
+      h2{
+        text-align: center;
+        font-size: 35px;
+        margin: 5%;
+      }
+      p{
+        text-align: center;
+        font-size: 24px;
+        line-height: 2;
+      }
+    }
+
+
+    
+    // QA總覽用
+    .QAList{
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      .QAItem{
+        width: 33%;
+        padding: 5%;
+        transition: all 0.3s;
+        @media(max-width:767px){
+          width: 48%;
+        }
+        @media(max-width:414px){
+          // width: 85%;
+        }
+        &:hover{
+          transform: scale(1.2);
+        }
+        a{
+          img{
+            max-width:100%
+          }
+          h3{
+            text-align: center;
+            font-size: 5vmin;
+            font-weight: bold;
+            color: #FFF;
+            padding-top: 1em;
+            white-space: nowrap;
+            @media(max-width:414px){
+              // font-size: 40px;
+            }
+          }
+          
+        }
+      }
+    }
+
+    // QA 頁面管理
+    .banner{
+      display: flex;
+      justify-content: center;
+      margin: 3% auto;
+      width: 30%;
+      img{
+        max-width:50%;
+        margin-right: 25%;
+      }
+      h3{
+        font-size: 60px;
+        white-space: nowrap;
+        color: skyblue;
+        display: flex;
+        align-items: center;
+        font-weight: bold;
+        letter-spacing: 0.5em;
+        @media(max-width:767px){
+          font-size: 10vmin;
+          letter-spacing: 0.3em;
+        }
+      }
+    }
+
+
+    // Q & A折疊選單
+    .question-list{
+      width: 70%;
+      margin: 0 auto;
+      transition: all 0.3s;
+      @media(max-width:767px){
+        width: 100%;
+      }
+      .question{
+        border: 2px solid #000;
+        margin: 20px auto;
+        transition: all 0.5s;
+
+        h3{
+          padding: 20px;
+          font-size: 24px;
+          @media(max-width:414px){
+            font-size: 20px;
+            padding: 15px 10px;
+          }
+          &:hover{
+            color: #FFF;
+            background: palevioletred;
+            transition: all 0.5s;
+          }
+      
+        }
+
+        p{
+          display: none;
+          font-size: 20px;
+          // padding: 20px 40px;
+          padding: 5% 40px 20px;
+          background: #333;
+          word-break: break-all;
+          line-height: 28px;
+          a{
+            margin-top: 5%;
+            display: block;
+            text-decoration: none;
+            text-align: center;
+            color: red;
+            font-weight: bold;
+            font-size: 28px;
+            @media(max-width:414px){
+              font-size: 24px;
+            }
+          }
+          span{
+            display: block;
+            margin: 15px auto;
+          }
+        }
+
+        .question-open{
+          color: #FFF;
+          background: blueviolet;
+          transition: all 0.5s;
+          border: 2px solid #CCC;
+        }
+
+
+      }
+
+    }
+
+    // 文字框圖片置中
+    .text{
+      img{
+        display: block;
+        margin: 30px auto;
+      }
+    }
+
+
+  }
+
+  // 表尾
+  .footer{
+    text-align: center;
+    padding: 10px;
+    background: #000;
+    color: #FFF;
+    position: relative;
+    &.menuFixed{
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      z-index: 20;
+    }
+
+    h3{
+      display: inline-block;
+      @media(max-width:460px){
+        padding-right: 70px;  
+      }
+      @media(max-width:414px){
+        display: block;
+        padding: 0;
+      }
+    }
+    // 電話分機表
+    .phoneTable{
+      position: absolute;
+      top: 8%;
+      right: 1%;
+      color: #0c9;
+      font-weight: bold;
+      transition: all 0.3s;
+
+      padding: 6px 12px;
+      border: #0c9 solid 1px;
+      @media(max-width:414px){
+        position: static;
+        display: inline-block;
+        margin-top: 10px;
+        padding: 6px 12px;
+        border: #0c9 solid 1px;
+      }
+      &:hover{
+        color: #90c;
+        border: #90c solid 1px;
+        transform: scale(1.2);
+        @media(max-width:414px){
+          border: #90c solid 1px;
+        }
+      }
+    }
+  }
+
+  // AD廣告表
+  .AD-Box{
+    background: rgba(0,0,0,0.7);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    &.AD-BGno{
+      background: rgba(0,0,0,0);
+    }
+    .AD-Max{
+      position: relative;
+      min-width: 300px;
+      min-height: 250px;
+      max-width: 100%;
+      max-height: 100%;
+      background: #000;
+      border: 5px solid grey;
+      /* 這邊設置定位讓P段落可以垂直置中 */
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: flex-start;
+
+
+      @media(max-width:414px){
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        bottom: 0;
+        left: 0;
+      }
+      .text{
+        color: #00CC99;
+        text-align: center;
+        line-height: 1.2em;
+        /* 這邊設置定位讓P段落可以水平置中 */
+        margin: 50px 20px;
+        transition: all 0.8s;
+        font-size: 36px;
+        word-break: break-all;
+        &:hover{
+          // font-size: 1.1em;
+          transition: all 0.8s;
+        }
+      }
+      img{
+        padding: 0 40px;
+      }
+      .ad-close{
+        position: absolute;
+        top: 0;
+        right: 0;
+        text-decoration: none;
+        font-weight: bold;
+        color: #FFF;
+        background: red;
+        font-size: 300%;
+        padding: 0 0.2em;
+        transition: all 0.8s;
+        &:hover{
+          color: grey;
+          background: #FFF;
+          transition: all 0.8s;
+        }
+      }
+    }
+
+  }
+
+
+  /* TOP按鈕 */
+  .top-btn{
+    i{
+      position: fixed;
+      bottom: 3%;
+      right: 1.5%;
+      color: rgb(0, 255, 191);
+      opacity: 0.9;
+      transition: all 0.5s;
+      z-index: 100;
+      @media(max-width:1230px){
+        bottom: 5%;
+      }
+      &:hover{
+        color: rgb(0, 153, 255);
+        transform: scale(1.2);
+      }
+    }
+  }
+
+
+}
+
+
+

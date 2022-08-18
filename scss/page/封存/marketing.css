@@ -1,0 +1,46 @@
+.wrap .container {
+  color: #000;
+  min-height: 1000px;
+}
+
+.wrap .container h2 {
+  text-align: center;
+  font-size: 50px;
+  margin: 15px;
+  padding-top: 30px;
+  font-weight: bold;
+}
+
+.wrap .container h3 {
+  text-align: center;
+  font-size: 40px;
+  margin: 10px;
+  padding-top: 40px;
+  font-weight: bold;
+}
+
+.wrap .container p {
+  text-align: center;
+  font-size: 24px;
+  line-height: 2;
+}
+
+.wrap .container a {
+  text-decoration: none;
+  padding-bottom: 5px;
+  color: royalblue;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(royalblue), to(royalblue));
+  background-image: linear-gradient(royalblue, royalblue);
+  background-position: left bottom;
+  background-size: 0 4px;
+  background-repeat: no-repeat;
+  font-size: 28px;
+  font-weight: bold;
+  -webkit-transition: background-size 0.15s linear;
+  transition: background-size 0.15s linear;
+}
+
+.wrap .container a:hover {
+  background-size: 100% 4px;
+}
+/*# sourceMappingURL=marketing.css.map */
